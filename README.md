@@ -13,6 +13,6 @@ This is a responsive, interactive website built with **HTML5, CSS3, and JavaScri
 - JavaScript (DOM manipulation, event handling)  
 
 ## Live Demo
-(file:///C:/Users/PC/Dropbox/PC/Desktop/WebDev/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/index.html)
+(https://jebiwott-25.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
 
 
